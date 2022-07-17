@@ -746,6 +746,23 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    width: 270px;
+    height: 270px;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+}
+
+.logo-nav {
+    height: 40px;
+    width: auto;
+}
+
+picture {
+    display: flex;
+    justify-content: center;
 }
 
 .portfolio-row {
