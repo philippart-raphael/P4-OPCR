@@ -307,7 +307,8 @@ a:hover {
 }
 
 .navbar-brand img[src$=svg] {
-    min-width: 100px;
+    width: 216px;
+    height: 40px;
 }
 
 .nav-center .navbar-brand img {
@@ -753,11 +754,6 @@ h4 {
 .logo {
     width: 100px;
     height: 100px;
-}
-
-.logo-nav {
-    height: 40px;
-    width: 216px;
 }
 
 picture {
