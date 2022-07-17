@@ -831,8 +831,7 @@ h4 {
 }
 
 .text-dark-footer {
-    font-weight: bold;
-    color: black;
+    color: black!important;
 }
 
 @media (max-width: 1024px) {
